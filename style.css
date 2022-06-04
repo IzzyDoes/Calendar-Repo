@@ -18,6 +18,8 @@ html{
     background-color: #362222;
     color: #362222;
     display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
